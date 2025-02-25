@@ -1,2 +1,4 @@
 # network-training
-Collection of notes
+A collection of notes across different material & resources. 
+
+Each dir contains notes & summary from a different training material.
